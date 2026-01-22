@@ -47,4 +47,4 @@ Este projeto consiste em um sistema embarcado desenvolvido para medir e monitora
 3. O sistema soará o alarme ao término de todas as medições programadas.
 
 ---
-Desenvolvido por [Seu Nome]
+Desenvolvido por João Victor Leitão, Anthony Saraiva, Moisés Costa e Rafael Silva
