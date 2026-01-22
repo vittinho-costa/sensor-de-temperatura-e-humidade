@@ -47,4 +47,5 @@ Este sistema foi projetado com um foco versátil, podendo ser adaptado para dive
 
 ---
 **Desenvolvido como projeto didático - UFPA**
+
 Desenvolvido por : João Victor Leitão, Anthony Saraiva, Moisés Costa, Rafael Silva
