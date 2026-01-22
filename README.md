@@ -38,3 +38,4 @@ Este projeto foi desenvolvido como trabalho académico para a **UFPA (Universida
 
 ---
 **Desenvolvido como projeto didático - UFPA**
+Desenvolvido por : João Victor Leitão, Anthony Saraiva, Moisés Costa, Rafael Silva
