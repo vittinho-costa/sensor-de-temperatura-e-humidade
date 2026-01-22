@@ -36,6 +36,15 @@ Este projeto foi desenvolvido como trabalho académico para a **UFPA (Universida
 2. Configure o intervalo e o número de medições desejados.
 3. Inicie o processo; o sistema salvará os dados e soará o alarme ao terminar.
 
+   ## 💡 Aplicações Práticas
+
+Este sistema foi projetado com um foco versátil, podendo ser adaptado para diversas frentes reais, como:
+
+1. **Agricultura de Precisão:** Monitoramento de canteiros experimentais ou hortas comunitárias em São Francisco do Pará, otimizando o uso de água através do controle exato da umidade.
+2. **Estufas Automatizadas:** Base para sistemas de irrigação inteligente, onde a coleta de dados na EEPROM permite analisar o comportamento térmico do solo ao longo do dia.
+3. **Educação Científica:** Ferramenta didática para o ensino de microcontroladores e lógica de programação em cursos técnicos e de graduação.
+4. **Pesquisa Acadêmica (UFPA):** Coleta de dados ambientais para estudos sobre o impacto do clima local na temperatura do solo em diferentes coberturas vegetais.
+
 ---
 **Desenvolvido como projeto didático - UFPA**
 Desenvolvido por : João Victor Leitão, Anthony Saraiva, Moisés Costa, Rafael Silva
