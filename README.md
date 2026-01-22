@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como trabalho académico para a **UFPA (Universida
 - **Microcontrolador:** PIC16F877A.
 - **Linguagem:** C.
 - **Compilador:** CCS C Compiler (PCWHD).
-- **Simulação:** Proteus 8.x.
+- **Simulação:** Proteus 9
 - **Hardware:** LCD 16x2, Teclado Matricial, Sensores e Buzzer.
 
 
